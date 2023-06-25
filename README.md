@@ -1,4 +1,4 @@
-# mywebsite
+# tic-tac-toe / x si 0
 
 deployed here: https://masterofcsharp.github.io/tictactoe-html-CSS-js/
 
